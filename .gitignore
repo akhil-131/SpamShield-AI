@@ -1,0 +1,9 @@
+# Ignore dataset folder
+dataset/
+
+# Ignore local Python environment clutter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ENV/
